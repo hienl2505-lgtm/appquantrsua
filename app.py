@@ -21,8 +21,19 @@ MENU_TEA = {
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
-     "Hồng Trà": 35000,
-    
+    # --- CÁC MÓN THÊM MỚI ---
+    "Trà Sữa Khoai Môn": 35000,
+    "Trà Sữa Socola": 35000,
+    "Trà Sữa Bạc Hà": 35000,
+    "Trà Sữa Hokkaido": 38000,
+    "Trà Sữa Okinawa": 38000,
+    "Sữa Tươi Trân Châu Đường Đen": 35000,
+    "Trà Vải Nhiệt Đới": 35000,
+    "Trà Xoài Kem Cheese": 42000,
+    "Trà Lài Macchiato": 38000,
+    "Hồng Trà Kem Mặn": 35000,
+    "Trà Oolong Tứ Quý": 32000,
+    "Lục Trà Bưởi Mật Ong": 35000
 }
 
 SIZE_OPTIONS = {
@@ -36,9 +47,15 @@ TOPPING_OPTIONS = {
     "Trân châu trắng": 7000,
     "Thạch trái cây": 5000,
     "Pudding trứng": 8000,
-    "Kem Cheese": 10000
+    "Kem Cheese": 10000,
+    # --- CÁC TOPPING THÊM MỚI ---
+    "Trân châu hoàng kim": 8000,
+    "Thạch phô mai": 8000,
+    "Thạch dừa": 5000,
+    "Hạt thủy tinh": 6000,
+    "Nha đam": 5000,
+    "Khúc bạch": 10000
 }
-
 SUGAR_LEVELS = ["100% (Bình thường)", "70%", "50%", "30%", "0% (Không đường)"]
 ICE_LEVELS = ["100% (Bình thường)", "70%", "50%", "30%", "0% (Không đá)"]
 
